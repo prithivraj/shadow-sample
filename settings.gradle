@@ -1,0 +1,3 @@
+include ':dublin'
+include ':app'
+rootProject.name = "Ireland"
